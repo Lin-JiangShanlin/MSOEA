@@ -1,6 +1,6 @@
 # MSOEA
 
-The code for MSOEA# Multi-Scenario Optimization Evolutionary Algorithm-MSOEA
+The code for Multi-Scenario Optimization Evolutionary Algorithm-MSOEA
 
 This repository provides implementations for the [paper](https://ieeexplore.ieee.org/document/9910596):
 
